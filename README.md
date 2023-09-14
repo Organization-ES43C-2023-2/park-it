@@ -1,5 +1,4 @@
-# Trabalho Requisitos de Software - 
-
+# Trabalho Requisitos de Software - Park It
 
 👩‍💻Tecnologias/Ferramentas utilizadas em nosso projeto : 
 - GitHub
