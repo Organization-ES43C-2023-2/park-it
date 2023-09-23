@@ -16,11 +16,11 @@ O projeto "Park It" é desenvolvido por uma equipe de talentosos programadores e
 
 ## Requisitos
 
-- [Requisitos Funcionais (RF)](Requisitos-Funcionais.md): Este documento descreve os requisitos funcionais do projeto, detalhando as funcionalidades e serviços que o sistema "Park It" deve fornecer.
+- [Requisitos Funcionais (RF)](/Requisitos%20de%20Usuario/Requisitos-Funcionais.md): Este documento descreve os requisitos funcionais do projeto, detalhando as funcionalidades e serviços que o sistema "Park It" deve fornecer.
 
-- [Requisitos Não Funcionais (RNF)](Requisitos-Nao-Funcionais.md): Este documento descreve os requisitos não funcionais, incluindo critérios de usabilidade, eficiência, confiabilidade, portabilidade e outros aspectos críticos para o sucesso do sistema.
+- [Requisitos Não Funcionais (RNF)](/Requisitos%20de%20Usuario/Requisitos-nao-Funcionais.md): Este documento descreve os requisitos não funcionais, incluindo critérios de usabilidade, eficiência, confiabilidade, portabilidade e outros aspectos críticos para o sucesso do sistema.
 
-- [Histórias de Usuário](Historias-de-Usuario.md): Este documento descreve as histórias de usuário que representam os casos de uso do sistema "Park It" e detalham as necessidades dos usuários.
+- [Histórias de Usuário](/Requisitos%20de%20Usuario/Historias-de-Usuario.md): Este documento descreve as histórias de usuário que representam os casos de uso do sistema "Park It" e detalham as necessidades dos usuários.
 
 ## Como Contribuir
 
