@@ -13,6 +13,7 @@ O projeto "Park It" é desenvolvido por uma equipe de talentosos programadores e
 - Pedro Donini - [GitHub](https://github.com/PedroDonini)
 - Lucas G Costa - [GitHub](https://github.com/rxluk)
 - Jose Pedro - [GitHub](https://github.com/JosePCAmaral)
+- Thiago Henrique Ribeiro 
 
 ## Requisitos
 
@@ -22,15 +23,13 @@ O projeto "Park It" é desenvolvido por uma equipe de talentosos programadores e
 
 - [Histórias de Usuário](/Requisitos%20de%20Usuario/Historias-de-Usuario.md): Este documento descreve as histórias de usuário que representam os casos de uso do sistema "Park It" e detalham as necessidades dos usuários.
 
+## Protótipo
+- [Protótipo Park-it](/https://www.figma.com/proto/TJNWIQK58MQ1SLKMfcGlZY/Park-it-(prot%C3%B3tipo)?type=design&node-id=5-2&t=i0YVCbjOFob4LYad-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=6%3A12&mode=design): Utilizamos a ferramenta Figma para criar o esboço do projeto.
+
 ## Como Contribuir
 
 Se você deseja contribuir para o desenvolvimento do projeto "Park It", sinta-se à vontade para criar um fork do repositório e enviar solicitações de pull com suas melhorias e correções. Também apreciamos feedback e sugestões!
 
-## Tecnologias/Ferramentas utilizadas em nosso projeto : 
-- GitHub
-- Trello 
-- Figma
-- Notion
   
 ---
 **Park It** - Estacione com facilidade e conveniência!
