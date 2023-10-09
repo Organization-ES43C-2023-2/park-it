@@ -6,7 +6,7 @@ O **Park It** é um sistema de gerenciamento de estacionamento inovador, desenvo
 
 ## Equipe
 
-O projeto "Park It" é desenvolvido por uma equipe de talentosos programadores e entusiastas da tecnologia:
+O projeto "Park It" é desenvolvido por uma equipe de talentosos engenheiros de software e entusiastas da tecnologia:
 
 - João Pedro Ribeiro Zugaib - [GitHub](https://github.com/joaopedro-rz)
 - Matheus Mondaini - [GitHub](https://github.com/matheus-mondaini)
