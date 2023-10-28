@@ -24,7 +24,7 @@ O projeto "Park It" é desenvolvido por uma equipe de talentosos engenheiros de 
 - [Histórias de Usuário](/Requisitos%20de%20Usuario/Historias-de-Usuario.md): Este documento descreve as histórias de usuário que representam os casos de uso do sistema "Park It" e detalham as necessidades dos usuários.
 
 ## Protótipo
-- [Visualize o Protótipo Park-it]([https://www.figma.com/proto/TJNWIQK58MQ1SLKMfcGlZY/Park-it-(prot%C3%B3tipo)?type=design&node-id=5-2&t=i0YVCbjOFob4LYad-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=6%3A12&mode=design](https://www.figma.com/proto/TJNWIQK58MQ1SLKMfcGlZY/Park-it-(prot%C3%B3tipo)?type=design&node-id=102-289&t=bLsQgArCBmyhaDYj-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=102%3A289&mode=design)): Utilizamos a ferramenta Figma para criar o esboço do projeto.
+- [Visualize o Protótipo Park-it](https://www.figma.com/proto/TJNWIQK58MQ1SLKMfcGlZY/Park-it-(prot%C3%B3tipo)?type=design&node-id=102-289&t=bLsQgArCBmyhaDYj-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=102%3A289&mode=design): Utilizamos a ferramenta Figma para criar o esboço do projeto.
 
 ## Como Contribuir
 
